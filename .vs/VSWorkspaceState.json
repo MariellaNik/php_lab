@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Migrations",
+    "\\Models",
+    "\\Models\\DAL",
+    "\\Views",
+    "\\Views\\Shared"
+  ],
+  "PreviewInSolutionExplorer": false
+}
